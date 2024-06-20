@@ -26,7 +26,7 @@ SCOM-realted Link Collection
 
 1.  **System Center Operations Manager (SCOM) Key Concepts**
 
-    > Overview of key concepts in SCOM, including management packs, monitoring, and tasks.
+    > Overview of key concepts in SCOM, including management packs, monitoring and tasks.
     > - [(Info) SCOM Key Concepts (learn.microsoft.com)](https://learn.microsoft.com/en-us/system-center/scom/key-concepts?view=sc-om-2022)
 
 1.  **Sealed vs Unsealed Management Packs**
@@ -34,7 +34,7 @@ SCOM-realted Link Collection
     > General Info about Sealed and Unsealed Management Pack Files
     > - [(Info) Sealed and Unsealed Management Packs(learn.microsoft.com)](https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457560(v=sc.12)#sealed-and-unsealed-management-pack-files)
 
-    > Explanation of sealed and unsealed management packs, their uses, and best practices. - **Seal MP**
+    > Explanation of sealed and unsealed management packs, their uses and best practices. - **Seal MP**
     > - [(LabGuide) Seal MP (learn.microsoft.com)](https://learn.microsoft.com/en-us/system-center/scsm/seal-mp?view=sc-sm-2022)
 
     > **Howto Create KeyPair**:
@@ -209,10 +209,10 @@ SCOM-realted Link Collection
 
 ---
 
-## Recource pools
+## Resource pools
 
-1.  **Understanding Recource Pools**
-    > Infos about recouce Pools and their benefits
+1.  **Understanding Resource Pools**
+    > Infos about Resource Pools and their benefits
     > - [(Info) Understanding SCOM resource pools (microsoft.com)](https://kevinholman.com/2016/11/21/understanding-scom-resource-pools/)
 
 ---
