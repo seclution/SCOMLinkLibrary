@@ -4,7 +4,21 @@ SCOM-realted Link Collection
 
 # Tabel of Content:
 
-[TOC]
+- [Core Concepts](#core-concepts)
+- [Planning and Sizing](#planning-and-sizing)
+- [Agent Management](#agent-management)
+- [Notifications and Alerts](#notifications-and-alerts)
+- [Authoring](#authoring)
+- [Advanced Monitoring and Group Management](#advanced-monitoring-and-group-management)
+- [Tasks](#tasks)
+- [Secutity](#secutity)
+- [Registry Tweaks and SQL Queries](#registry-tweaks-and-sql-queries)
+- [Grooming and Retention](#grooming-and-retention)
+- [Recource pools](#recource-pools)
+- [APM](#apm)
+- [Powershell](#powershell)
+- [Miscellaneous Tools and Resources](#miscellaneous-tools-and-resources)
+- [Relevant SCOM-Blogs](#relevant-scom-blogs)
 
 ---
 
@@ -111,6 +125,11 @@ SCOM-realted Link Collection
 
 ## Authoring
 
+1.  **ManagementPack Baseline Automation**
+
+    > This process is designed to save you a significant amount of time by fully automating the baselining procedure:
+    > - [(LabGuide) ManagementPack Baseline Automation (thegermanscomguys.com)](https://thegermanscomguys.com/posts/mp-baseline-automation/)
+
 1.  **Visual Studio Authoring Extensions**
 
     > Tools and extensions for authoring management packs using Visual Studio:
@@ -142,7 +161,7 @@ SCOM-realted Link Collection
 ## Tasks
 1. Automate Tasks
 	> Guide to automate Tasks (scheduling, execute any powershell, override)
-	> - [(LabGuide) PS Task (thegermanscomguys.com)](https://thegermanscomguys.com/posts/PS-Task)
+	> - [(LabGuide) PS Task (thegermanscomguys.com)](https://thegermanscomguys.com/posts/PS-Task](https://thegermanscomguys.com/posts/ps-task/)
 
 ---
 
