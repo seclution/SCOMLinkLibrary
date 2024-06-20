@@ -32,10 +32,10 @@ SCOM-realted Link Collection
 1.  **Sealed vs Unsealed Management Packs**
 
     > General Info about Sealed and Unsealed Management Pack Files
-    > - [(Info) Sealed and Unsealed Management Packs](<https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457560(v=sc.12)#sealed-and-unsealed-management-pack-files)
+    > - [(Info) Sealed and Unsealed Management Packs(learn.microsoft.com)](https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457560(v=sc.12)#sealed-and-unsealed-management-pack-files)
 
     > Explanation of sealed and unsealed management packs, their uses, and best practices. - **Seal MP**
-    >  - [(LabGuide) Seal MP (learn.microsoft.com)](https://learn.microsoft.com/en-us/system-center/scsm/seal-mp?view=sc-sm-2022)
+    > - [(LabGuide) Seal MP (learn.microsoft.com)](https://learn.microsoft.com/en-us/system-center/scsm/seal-mp?view=sc-sm-2022)
 
     > **Howto Create KeyPair**:
     > - [(LabGuide) Create public private key pair (learn.microsoft.com) ](https://learn.microsoft.com/en-us/dotnet/standard/assembly/create-public-private-key-pair)
@@ -46,17 +46,17 @@ SCOM-realted Link Collection
 1.  **Objects and Classes in SCOM**
 
     > Guidance on creating monitoring using target classes that fit specific needs:
-    > - [(Info) Objects and Classes (learn.microsoft.com)](<https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457568(v=sc.12))
+    > - [(Info) Objects and Classes (learn.microsoft.com)](https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457568(v=sc.12))
 
 1.  **Management Pack Templates**
 
     > Information on using templates for creating management packs:
-    > - [(Info) MP Templates (learn.microsoft.com)](<https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457614(v=sc.12))
+    > - [(Info) MP Templates (learn.microsoft.com)](https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457614(v=sc.12))
 
 1.  **Monitors and Rules**
 
     > Details on creating and managing monitors and rules in SCOM:
-    > - [(Info) Monitors and Rules (learn.microsoft.com)](<https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457603(v=sc.12))
+    > - [(Info) Monitors and Rules (learn.microsoft.com)](https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457603(v=sc.12))
 
     > Identify Windows-Server Performance Metric to create SCOM-Monitoring based on the counters identified:
     > - [(LabGuide) Get relevant Performance Counter (learn.microsoft.com)](https://learn.microsoft.com/en-us/training/modules/monitor-windows-server-performance/?source=recommendations)
@@ -64,7 +64,7 @@ SCOM-realted Link Collection
 1.  **Tasks Authoring**
 
     > Information on authoring tasks in SCOM:
-    > - [(Info) Tasks Authoring (learn.microsoft.com)](<https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457605(v=sc.12))
+    > - [(Info) Tasks Authoring (learn.microsoft.com)](https://learn.microsoft.com/en-us/previous-versions/system-center/system-center-2012-r2/hh457605(v=sc.12))
 
 
 ---
