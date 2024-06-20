@@ -290,25 +290,25 @@ SCOM-realted Link Collection
 
 ## Relevant SCOM-Blogs
 
-> > [Kevin Holman (kevinholman.com)](https://kevinholman.com/)
-> > 
-> > [Kevin Justin (kevinjustin.com)](https://kevinjustin.com/blog/)
-> > 
-> > [Cookdown (cookdown.com)](https://www.cookdown.com/blog)
-> > 
-> > [SCOMSkills (blog.scomskills.com)](http://blog.scomskills.com/)
-> > 
-> > [Topqore (blog.topqore.com)](https://blog.topqore.com/)
-> > 
-> > [MaxCoreBlog (maxcoreblog.com)](https://maxcoreblog.com/)
-> > 
-> > [AzureCloudAI (azurecloudai.blog)](https://azurecloudai.blog/?s=scom)
-> > 
-> > [Sourav Mahato (souravmahato.com)](https://www.souravmahato.com/category/scom/)
-> > 
-> > [Stefan Roth (stefanroth.net)](https://www.stefanroth.net/?s=scom/)
-> > 
-> > [AnalyticOps (anaops.wordpress.com)](https://anaops.wordpress.com/category/scom/)
+>[Kevin Holman (kevinholman.com)](https://kevinholman.com/)
+>
+>[Kevin Justin (kevinjustin.com)](https://kevinjustin.com/blog/)
+>
+>[Cookdown (cookdown.com)](https://www.cookdown.com/blog)
+>
+>[SCOMSkills (blog.scomskills.com)](http://blog.scomskills.com/)
+>
+>[Topqore (blog.topqore.com)](https://blog.topqore.com/)
+>
+>[MaxCoreBlog (maxcoreblog.com)](https://maxcoreblog.com/)
+>
+>[AzureCloudAI (azurecloudai.blog)](https://azurecloudai.blog/?s=scom)
+>
+>[Sourav Mahato (souravmahato.com)](https://www.souravmahato.com/category/scom/)
+>
+>[Stefan Roth (stefanroth.net)](https://www.stefanroth.net/?s=scom/)
+>
+>[AnalyticOps (anaops.wordpress.com)](https://anaops.wordpress.com/category/scom/)
 
 Created by [TheGermanSCOMGuys](https://thegermanscomguys.com)
 
