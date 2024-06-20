@@ -161,7 +161,7 @@ SCOM-realted Link Collection
 ## Tasks
 1. Automate Tasks
 	> Guide to automate Tasks (scheduling, execute any powershell, override)
-	> - [(LabGuide) PS Task (thegermanscomguys.com)](https://thegermanscomguys.com/posts/PS-Task](https://thegermanscomguys.com/posts/ps-task/)
+	> - [(LabGuide) PS Task (thegermanscomguys.com)](https://thegermanscomguys.com/posts/ps-task/)
 
 ---
 
